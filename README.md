@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+In the process to learn piglatin, hiveql, python and more...
